@@ -1,0 +1,11 @@
+# Ignore C++ files
+*.cpp text
+*.h text
+*.hpp text
+*.cxx text
+*.hxx text
+*.c++ text
+
+# Ignore CMake files
+CMakeLists.txt text
+*.cmake text
